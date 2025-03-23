@@ -1,0 +1,11 @@
+C:\Users\Dylan\source\repos\FlappyBirdServer\Common\bin\Debug\net9.0\Common.deps.json
+C:\Users\Dylan\source\repos\FlappyBirdServer\Common\bin\Debug\net9.0\Common.dll
+C:\Users\Dylan\source\repos\FlappyBirdServer\Common\bin\Debug\net9.0\Common.pdb
+C:\Users\Dylan\source\repos\FlappyBirdServer\Common\obj\Debug\net9.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dylan\source\repos\FlappyBirdServer\Common\obj\Debug\net9.0\Common.AssemblyInfoInputs.cache
+C:\Users\Dylan\source\repos\FlappyBirdServer\Common\obj\Debug\net9.0\Common.AssemblyInfo.cs
+C:\Users\Dylan\source\repos\FlappyBirdServer\Common\obj\Debug\net9.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Dylan\source\repos\FlappyBirdServer\Common\obj\Debug\net9.0\Common.dll
+C:\Users\Dylan\source\repos\FlappyBirdServer\Common\obj\Debug\net9.0\refint\Common.dll
+C:\Users\Dylan\source\repos\FlappyBirdServer\Common\obj\Debug\net9.0\Common.pdb
+C:\Users\Dylan\source\repos\FlappyBirdServer\Common\obj\Debug\net9.0\ref\Common.dll
