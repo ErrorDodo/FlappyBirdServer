@@ -1,9 +1,10 @@
-﻿using Newtonsoft.Json;
+﻿using Common.Interfaces;
+using Newtonsoft.Json;
 using Common.Models;
 
 namespace Common.Services;
 
-public class ScoreManagerService
+public class ScoreManagerService : IScoreManagerService
 {
     private readonly string _filePath;
     private readonly object _fileLock = new();
