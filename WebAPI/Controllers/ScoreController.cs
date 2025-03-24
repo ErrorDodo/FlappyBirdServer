@@ -26,7 +26,7 @@ public class ScoreController : ControllerBase
         {
             _logger.LogDebug("Calling _scoreService.GetScores()");
             var scores = _scoreService.GetScores();
-            _logger.LogDebug("Retrieved {ScoreCount} scores from ScoreManagerService.", scores.Count());
+            _logger.LogDebug("Retrieved {ScoreCount} scores from ScoreManagerService.", scores.Count);
 
             var topScores = scores
                 .OrderByDescending(s => s.Score)
